@@ -6,7 +6,7 @@
 <details>
   <summary>Mais sobre mim</summary>
  
-  - 🌎 Vivo em *São Paulo*.
+  - 🌎 Moro em *São Paulo*.
   - 🎇 Tenho *19 anos*.
   - 📅 Iniciei os estudos em *fevereiro* - ***UNINTER***
 </details>
