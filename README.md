@@ -8,7 +8,7 @@
  
   - 🌎 Moro em *São Paulo*.
   - 🎇 Tenho *19 anos*.
-  - 📅 Iniciei os estudos em *fevereiro* - ***UNINTER***
+  - 📅 Iniciei os estudos em *fevereiro, 2024* - ***UNINTER***
 </details>
 
 ### Linguagens de programação
