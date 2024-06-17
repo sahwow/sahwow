@@ -1,6 +1,6 @@
 ## Hello! Eu sou a Sarah :) 
 
-- 🤓 Trabalhando com *back-end*
+- 🤓 Trabalhando em *back-end*
 - 📚 Estudando *Python*
 - 🎓 Cursando *Análise e Desenvolvimento de Sistemas*
 <details>
